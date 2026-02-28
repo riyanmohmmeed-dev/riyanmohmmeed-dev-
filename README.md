@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/mohammed-riyaan-494535216/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:riyanmohmmmed@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/riyanmohmmeed-dev"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://riyanmohmmeed-dev.gitlab.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </div>
 
